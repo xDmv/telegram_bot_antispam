@@ -9,10 +9,12 @@
 https://github.com/eternnoir/pyTelegramBotAPI
 
 <br># install librery:
-$ pip3 install pytelegrambotapi
+<br>$ pip3 install pytelegrambotapi
 
 <br># run the bot from the directory with the command:
-$ python3 bot.py
+<br>$ python3 bot.py
+
+<br># When adding a bot to a group, you need to make it an "administrator" and allow it to send and edit messages.
 
 Capability my bot:
     <br>Delete all message that have:
@@ -34,11 +36,13 @@ Capability my bot:
 <br>использовал библиотеку: pyTelegramBotAPI
 https://github.com/eternnoir/pyTelegramBotAPI
 
-# устанавливаем библиотеку для phyton:
-$ pip3 install pytelegrambotapi
+<br># устанавливаем библиотеку для phyton:
+<br>$ pip3 install pytelegrambotapi
 
-# запуск бота из папки командой:
-$ python3 bot.py
+<br># запуск бота из папки командой:
+<br>$ python3 bot.py
+
+<br># при добавлении бота в группу необходимо сделать его "администратором" и разрешить ему отпровлять и редактировать сообщения.
 
 Возможности бота:
 <br>Удаляет все сообщения в которых есть:
