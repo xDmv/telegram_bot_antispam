@@ -1,8 +1,8 @@
 Bot Telegram antispam
 
-Author: Makushen Dmitriy
-Author-email: avtospam2@gmail.com
-License: MIT
+\n Author: Makushen Dmitriy
+\n Author-email: avtospam2@gmail.com
+\n License: MIT
 
 Instrution (En):
 Bot written in Python 3.5
