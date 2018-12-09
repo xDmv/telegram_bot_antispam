@@ -1,5 +1,4 @@
-Bot Telegram antispam
-
+<h2><center><b>Bot Telegram antispam<b></center></h2>
 <br> Author: Makushen Dmitriy
 <br> Author-email: avtospam2@gmail.com
 <br> License: MIT
