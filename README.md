@@ -1,4 +1,4 @@
-<h2><center><b>Bot Telegram antispam<b></center></h2>
+<h2><b>Bot Telegram antispam<b></h2>
 <br> Author: Makushen Dmitriy
 <br> Author-email: avtospam2@gmail.com
 <br> License: MIT
@@ -37,7 +37,7 @@ https://github.com/eternnoir/pyTelegramBotAPI
 # устанавливаем библиотеку для phyton:
 $ pip3 install pytelegrambotapi
 
-# запуск бота из католога командой:
+# запуск бота из папки командой:
 $ python3 bot.py
 
 Возможности бота:
