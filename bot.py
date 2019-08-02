@@ -35,6 +35,14 @@ try:
 	@bot.message_handler(content_types=["text"])
 	def repeat_all_messages(message):  # Название функции не играет никакой роли, в принципе
 		if (str(message.from_user.id) not in user0):
+			if (message.json is not None):
+				text_json = str(message.json)
+				if re.search(r'inline_keyboard', text_json):
+					f = open('log.txt', 'a')
+					f.write(str(datetime.datetime.now()) + ' user id:' + str(message.from_user.id) + ' del json, del message with buttons' + '\n')
+					f.close()
+					bot.delete_message(message.chat.id, message.message_id)
+		if (str(message.from_user.id) not in user0):
 			if re.search(r'\bзаработку\b', message.text):
 				f = open('log.txt', 'a')
 				f.write(str(datetime.datetime.now()) + ' user id:' + str(
