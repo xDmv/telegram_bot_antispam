@@ -29,7 +29,7 @@ Capability my bot:
     <br>- picture or photo file.
     <br>Bot actions apply to all but the list of users who are allowed.
     <br>The list of users who are allowed to do everything is specified in the config.py file in the admin_user array.
-    
+
 
 <br># Инструкция (Ru):
 <br>Бот написан на Python 3.5
@@ -62,3 +62,6 @@ https://github.com/eternnoir/pyTelegramBotAPI
 
 <br>Если хотите его разместить на свой сервер то ознакомтесь с этой статьей:
 https://groosha.gitbooks.io/telegram-bot-lessons/content/ini_and_pyz.html
+
+Relice 1.0.1
+- add function delete message with bottons and  message with json
