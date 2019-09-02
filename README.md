@@ -65,3 +65,7 @@ https://groosha.gitbooks.io/telegram-bot-lessons/content/ini_and_pyz.html
 
 Relice 1.0.1
 - add function delete message with bottons and  message with json
+
+Relice 1.0.2
+- up all function
+- add function delete message with all bottons type 
