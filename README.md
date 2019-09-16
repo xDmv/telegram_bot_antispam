@@ -69,3 +69,6 @@ Relice 1.0.1
 Relice 1.0.2
 - up all function
 - add function delete message with all bottons type 
+
+Relice 1.0.3
+- add new function for message.entities
